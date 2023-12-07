@@ -1,0 +1,22 @@
+1. A repository in GitHub is a location where you can store a development project. 
+2. It can contain folders and any type of files such as HTML, CSS, JavaScript, Documents, Data, Images.
+3. A GitHub repository should also include a license file and a README file about the project¹. 
+4. You can discuss and manage your project's work within the repository³.
+5. You can own repositories individually or you can share ownership of repositories with other people in an organization³. 
+
+comands :
+
+ 1. creat a repo in ur git hub								
+ 2. copy the repo link										
+ 3. come back to local open drive creat a folder on the name of project get ito it 	
+ 4. add files requried to uplode to the REPO 						
+ 5. now right click on the emepty space and click "git bash" (it opens the console) 	
+ 6. git clone paste repo link								
+ 7. git status										 
+ 8. git add .
+ 9. git commit -m "text some message"
+10. git status
+11. git push 
+
+::::: ALL THIS COMANDS USED TO CREAT A REPO IN MAIN :::::
+
